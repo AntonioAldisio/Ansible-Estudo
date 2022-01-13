@@ -1,0 +1,10 @@
+site_name: Ansible
+
+theme:
+  name: material
+  language: pt
+
+docs_dir: docs/
+
+nav:
+  - Sobre: index.md
